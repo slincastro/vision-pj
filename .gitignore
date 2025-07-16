@@ -1,0 +1,12 @@
+.DS_Store
+*.zip
+*.tar.gz
+*.log
+*.tmp
+*.bak
+*.swp
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
